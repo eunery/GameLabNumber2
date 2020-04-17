@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace GameLabNumber2
 {
     /// <summary>
-    /// Логика взаимодействия для Level2.xaml
+    /// Логика взаимодействия для Level5.xaml
     /// </summary>
-    public partial class Level2 : Window
+    public partial class Level5 : Window
     {
-        public Level2()
+        public Level5()
         {
             InitializeComponent();
         }

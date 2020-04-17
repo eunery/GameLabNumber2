@@ -1,0 +1,16 @@
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\bin\Debug\GameLabNumber2.exe.config
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\bin\Debug\GameLabNumber2.exe
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\bin\Debug\GameLabNumber2.pdb
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\GameLabNumber2.csprojAssemblyReference.cache
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\MainWindow.g.cs
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\App.g.cs
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\GameLabNumber2_MarkupCompile.cache
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\GameLabNumber2_MarkupCompile.lref
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\MainWindow.baml
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\GameLabNumber2.g.resources
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\GameLabNumber2.Properties.Resources.resources
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\GameLabNumber2.csproj.GenerateResource.cache
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\GameLabNumber2.exe
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\GameLabNumber2.pdb
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\Level5.g.cs
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\Level5.baml

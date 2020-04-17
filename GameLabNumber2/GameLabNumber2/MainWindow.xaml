@@ -1,4 +1,5 @@
-﻿<Window x:Class="GameLabNumber2.MainWindow"
+﻿<Window x:Name="Level4"
+    x:Class="GameLabNumber2.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -6,7 +7,19 @@
         xmlns:local="clr-namespace:GameLabNumber2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+    <Grid x:Name="gMain">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <DockPanel x:Name="dpMain" Grid.Row="0" >
+            <RadioButton x:Name ="rbOne" Content="FirstPart" HorizontalAlignment="Center"/>
+            <RadioButton x:Name="rbTwo" Content="SecondPart" HorizontalAlignment="Left"/>
+        </DockPanel>
+        <StackPanel x:Name="sMain" Grid.Row="1">
+            <Button x:Name="buttonAnswer" Content="Answer"/>
+            <Label Content="Год основания Питера и год рождения Гагарина. Цифры расположить в порядке возрастания." HorizontalAlignment="Center"/>
+            <Button x:Name="clearingButton" Content="Clear Answer"/>
+        </StackPanel>
     </Grid>
 </Window>

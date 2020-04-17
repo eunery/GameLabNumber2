@@ -55,11 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="Level2.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Level3.xaml">
+    <Page Include="Level5.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -71,11 +67,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Level2.xaml.cs">
-      <DependentUpon>Level2.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Level3.xaml.cs">
-      <DependentUpon>Level3.xaml</DependentUpon>
+    <Compile Include="Level5.xaml.cs">
+      <DependentUpon>Level5.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
