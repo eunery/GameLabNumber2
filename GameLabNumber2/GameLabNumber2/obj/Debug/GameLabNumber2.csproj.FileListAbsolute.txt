@@ -14,3 +14,5 @@ C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLa
 C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\GameLabNumber2.pdb
 C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\Level5.g.cs
 C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\Level5.baml
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\Level6.g.cs
+C:\Users\Sergei\Documents\GitKrakenProjects\GameLabNumber2\GameLabNumber2\GameLabNumber2\obj\Debug\Level6.baml

@@ -7,7 +7,25 @@
         xmlns:local="clr-namespace:GameLabNumber2"
         mc:Ignorable="d"
         Title="Level5" Height="450" Width="800">
-    <Grid>
-        
+    <Grid x:Name="gMain">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <DockPanel x:Name="dMain" >
+            <ListView x:Name="firstlView" Height="210" HorizontalAlignment="Left" VerticalAlignment="Center" Width="108">
+                <TextBlock FontWeight="Bold" Text="Оглавление." HorizontalAlignment="Center"/>
+                <ListBoxItem x:Name="FirstTask" >Первая задача.</ListBoxItem>
+                <ListBoxItem x:Name="SecondTask" >Вторая задача.</ListBoxItem>
+            </ListView>
+            <ListView x:Name="secondlView" HorizontalAlignment="Left" VerticalAlignment="Center" Width="105" Height="210" Margin="0">
+                <TextBlock FontWeight="Bold" Text="Задание." HorizontalAlignment="Center"/>
+                <ListBoxItem x:Name="FirstQuest">2+2</ListBoxItem>
+                <ListBoxItem x:Name="SecondQuest">5+2</ListBoxItem>
+            </ListView>
+            <Label x:Name="logLabel" Height="210" VerticalAlignment="Top"/>
+        </DockPanel>
+        <TextBox x:Name="tbAnswer" HorizontalAlignment="Center" VerticalAlignment="Center" Height="209" TextWrapping="Wrap" Grid.Row="1" Width="754" Margin="0,0,38,0"/>
+        <Button x:Name="answerButton" Content="OK" VerticalAlignment="Top" HorizontalAlignment="Right" Grid.Row="1" Width="38" Height="209"/>
     </Grid>
 </Window>
